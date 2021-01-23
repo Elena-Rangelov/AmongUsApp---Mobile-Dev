@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Among Us App</string>
+    <string name="left"><![CDATA[<]]></string>
+    <string name="restart">Restart?</string>
+    <string name="up">^</string>
+    <string name="right"><![CDATA[>]]></string>
+    <string name="down">v</string>
+</resources>
